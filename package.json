@@ -26,8 +26,6 @@
         "default": "Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories."
       }
     },
-    "featured": true,
-    "disabled": false,
     "bluetoothRequired": false,
     "serialportRequired": true,
     "defaultBaudRate": "9600",
