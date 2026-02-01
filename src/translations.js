@@ -20,16 +20,16 @@
 export default {
     'interface': {
         'en': {
-            'device.arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
         },
         'ru': {
-            'device.arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
         },
         'zh-cn': {
-            'device.arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
         },
         'zh-tw': {
-            'device.arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
         }
     },
     'extensions': {

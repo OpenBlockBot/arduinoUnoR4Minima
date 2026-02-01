@@ -25,7 +25,7 @@
     "iconURL": "./assets/arduinoUnoR4Minima.png",
     "description": {
       "formatMessage": {
-        "id": "device.arduinoUnoR4Minima.description",
+        "id": "arduinoUnoR4Minima.description",
         "default": "Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories."
       }
     },
