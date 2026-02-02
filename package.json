@@ -9,11 +9,11 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "openblock-registry-cli dev",
-    "build": "openblock-registry-cli build",
-    "build:obfuscate": "openblock-registry-cli build --obfuscate",
-    "publish": "openblock-registry-cli publish",
-    "publish:dry": "openblock-registry-cli publish --dry-run",
+    "dev": "npx openblock-registry-cli dev",
+    "build": "npx openblock-registry-cli build",
+    "build:obfuscate": "npx openblock-registry-cli build --obfuscate",
+    "publish": "npx openblock-registry-cli publish",
+    "publish:dry": "npx openblock-registry-cli publish --dry-run",
     "lint": "eslint . --ext .js --fix"
   },
   "openblock": {
