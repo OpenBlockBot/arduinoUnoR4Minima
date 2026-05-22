@@ -20,16 +20,64 @@
 export default {
     'interface': {
         'en': {
-            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.',
+            'arduinoUnoR4Minima.examples.blink.name': 'Blink',
+            'arduinoUnoR4Minima.examples.blink.description': 'Make the on-board LED blink.',
+            'arduinoUnoR4Minima.examples.button.name': 'Button',
+            'arduinoUnoR4Minima.examples.button.description': 'Light up the LED while a push button is pressed.',
+            'arduinoUnoR4Minima.examples.fade.name': 'Fade',
+            'arduinoUnoR4Minima.examples.fade.description': 'Smoothly fade an LED in and out using PWM.',
+            'arduinoUnoR4Minima.examples.knob.name': 'Knob',
+            'arduinoUnoR4Minima.examples.knob.description': 'Control LED brightness with a potentiometer.',
+            'arduinoUnoR4Minima.examples.servoSweep.name': 'Servo Sweep',
+            'arduinoUnoR4Minima.examples.servoSweep.description': 'Sweep a servo back and forth between 0 and 180 degrees.',
+            'arduinoUnoR4Minima.examples.serialMonitor.name': 'Serial Monitor',
+            'arduinoUnoR4Minima.examples.serialMonitor.description': 'Print analog readings to the Serial Monitor every half second.'
         },
         'ru': {
-            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.',
+            'arduinoUnoR4Minima.examples.blink.name': 'Мигание',
+            'arduinoUnoR4Minima.examples.blink.description': 'Заставьте встроенный светодиод мигать.',
+            'arduinoUnoR4Minima.examples.button.name': 'Кнопка',
+            'arduinoUnoR4Minima.examples.button.description': 'Зажигайте светодиод, пока нажата кнопка.',
+            'arduinoUnoR4Minima.examples.fade.name': 'Плавное затухание',
+            'arduinoUnoR4Minima.examples.fade.description': 'Плавное затухание светодиода с помощью ШИМ.',
+            'arduinoUnoR4Minima.examples.knob.name': 'Регулятор',
+            'arduinoUnoR4Minima.examples.knob.description': 'Регулировка яркости светодиода с помощью потенциометра.',
+            'arduinoUnoR4Minima.examples.servoSweep.name': 'Развертка серво',
+            'arduinoUnoR4Minima.examples.servoSweep.description': 'Поворот серво вперед и назад между 0° и 180°.',
+            'arduinoUnoR4Minima.examples.serialMonitor.name': 'Монитор порта',
+            'arduinoUnoR4Minima.examples.serialMonitor.description': 'Печать аналоговых показаний в монитор порта каждые полсекунды.'
         },
         'zh-cn': {
-            'arduinoUnoR4Minima.description': '提供更强的性能和更大的内存，同时保持与现有扩展板和配件的兼容性。'
+            'arduinoUnoR4Minima.description': '提供更强的性能和更大的内存，同时保持与现有扩展板和配件的兼容性。',
+            'arduinoUnoR4Minima.examples.blink.name': '闪烁',
+            'arduinoUnoR4Minima.examples.blink.description': '让板载 LED 闪烁。',
+            'arduinoUnoR4Minima.examples.button.name': '按键',
+            'arduinoUnoR4Minima.examples.button.description': '按住按键时点亮 LED。',
+            'arduinoUnoR4Minima.examples.fade.name': '呼吸灯',
+            'arduinoUnoR4Minima.examples.fade.description': '用 PWM 让 LED 缓缓变亮再渐渐变暗。',
+            'arduinoUnoR4Minima.examples.knob.name': '电位器调光',
+            'arduinoUnoR4Minima.examples.knob.description': '用电位器调节 LED 的亮度。',
+            'arduinoUnoR4Minima.examples.servoSweep.name': '舵机来回扫描',
+            'arduinoUnoR4Minima.examples.servoSweep.description': '让舵机在 0° 到 180° 之间来回转动。',
+            'arduinoUnoR4Minima.examples.serialMonitor.name': '串口监视器',
+            'arduinoUnoR4Minima.examples.serialMonitor.description': '每半秒把模拟引脚的数值打印到串口监视器上。'
         },
         'zh-tw': {
-            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.'
+            'arduinoUnoR4Minima.description': 'Offers enhanced performance and expanded memory, maintaining compatibility with existing shields and accessories.',
+            'arduinoUnoR4Minima.examples.blink.name': '閃爍',
+            'arduinoUnoR4Minima.examples.blink.description': '讓板載 LED 閃爍。',
+            'arduinoUnoR4Minima.examples.button.name': '按鍵',
+            'arduinoUnoR4Minima.examples.button.description': '按住按鍵時點亮 LED。',
+            'arduinoUnoR4Minima.examples.fade.name': '呼吸燈',
+            'arduinoUnoR4Minima.examples.fade.description': '用 PWM 讓 LED 緩緩變亮再漸漸變暗。',
+            'arduinoUnoR4Minima.examples.knob.name': '電位器調光',
+            'arduinoUnoR4Minima.examples.knob.description': '用電位器調節 LED 的亮度。',
+            'arduinoUnoR4Minima.examples.servoSweep.name': '舵機來回掃描',
+            'arduinoUnoR4Minima.examples.servoSweep.description': '讓舵機在 0° 到 180° 之間來回轉動。',
+            'arduinoUnoR4Minima.examples.serialMonitor.name': '串口監視器',
+            'arduinoUnoR4Minima.examples.serialMonitor.description': '每半秒把類比引腳的數值印出到串口監視器上。'
         }
     },
     'extensions': {
